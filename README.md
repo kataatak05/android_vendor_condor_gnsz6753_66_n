@@ -8,7 +8,8 @@ This branch is device for building of the LineageOS 14.1 and Android Nougat 7.1.
 # About Device
 
 Condor Allure A8(gnsz6753_66_n)
-https://www.condor.dz/imgs/prds/1678_f4ba787ea9f37c511d7f28834f100138.png
+![Condor Allure A8](https://www.condor.dz/imgs/prds/1678_f4ba787ea9f37c511d7f28834f100138.png "Condor Allure A8")
+
 
 ### Specifications
 
