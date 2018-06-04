@@ -35,16 +35,12 @@ Touchscreen    | ft5x0x (i2c 1-0038)
 Accelerometer  | N2DM (i2c 2-0009)
 Als/ps         | APDS09921 (i2c 2-0053)
 Magnetometer   | akm09911 (i2c 2-000c)
-Camera         | imx258mipiraw / ov8865mipiraw
+Camera         | imx258mipiraw /n ov8865mipiraw
 Lens AF        | MAINF (i2c 2-000c) 
 				 DW9800WAF
 Charger        | bq24296 (i2c 1-006b)
 Fingerprint    | gf_key
-Other          | leds-SGM3784 (i2c 1-0030)
-				 RT4801 (i2c 1-0073)
-				 CAM_CAL_DRV (i2c 0-0031)
-				 kd_camera_hw (i2c 0-0010)
-				 kd_camera_hw_bus2 (i2c 0-003c)
+Other          | leds-SGM3784 (i2c 1-0030) RT4801 (i2c 1-0073) CAM_CAL_DRV (i2c 0-0031) kd_camera_hw (i2c 0-0010) kd_camera_hw_bus2 (i2c 0-003c)
 Wi-Fi          | CONSYS_MT6735
 Sound          | mtsndcard
 RAM            | 3 GB LPDDR3_1600
